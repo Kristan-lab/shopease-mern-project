@@ -1,0 +1,12 @@
+my-mern-project/
+├── client/          <-- React Frontend
+│   └── src/
+├── server/          <-- Express & Node.js Backend
+│   ├── routes/
+│   ├── tests/
+│   ├── app.js
+│   ├── server.js
+│   └── .env
+└── .github/
+    └── workflows/
+        └── ci.yml   <-- GitHub Actions CI
